@@ -6,6 +6,11 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
-  m_configObjects: {}
+    path: Assets/SpeechSandbox/_Scenes/MainGame/MainMenu.unity
+    guid: d3ea3bec60666fb498bb14b8a39cf8a7
+  - enabled: 1
+    path: Assets/SpeechSandbox/_Scenes/MainGame/Tutorial.unity
+    guid: fea6174c1e0f024469d675d46e96a002
+  - enabled: 1
+    path: Assets/SpeechSandbox/_Scenes/MainGame/Sandbox.unity
+    guid: eed1b71e0fd20fb4fadc8fe3b43e2b49
